@@ -90,7 +90,7 @@
                     Margin="10">
                     <VerticalStackLayout Spacing="10">
                         <Button Text="Avançar" Clicked="Button_Clicked"   />
-                         <Button Text="About" Clicked="Button_Clicked"   />
+                         <Button Text="About" Clicked="About_Clicked"   />
                     </VerticalStackLayout>
                 </Frame>
             </VerticalStackLayout>
